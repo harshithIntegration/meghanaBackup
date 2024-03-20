@@ -1,0 +1,130 @@
+[
+    {
+        "_id": 1,
+        "name": "john smith",
+        "gender": "male"
+    },
+    {
+        "_id": 2,
+        "name": "steve vough",
+        "gender": "male"
+    },
+    {
+        "_id": 3,
+        "name": "john smith",
+        "gender": "Female"
+    },
+    {
+        "_id": 4,
+        "name": "Mark Boucher",
+        "gender": "male"
+    },
+    {
+        "_id": 5,
+        "name": "steve smith",
+        "gender": "male"
+    },
+    {
+        "_id": 6,
+        "name": "john smith",
+        "gender": "male"
+    },
+    {
+        "_id": 7,
+        "name": " megha",
+        "gender": "Female"
+    },
+    {
+        "_id": 8,
+        "name": "asha",
+        "gender": "Female"
+    },
+    {
+        "_id": 9,
+        "name": "joy",
+        "gender": "male"
+    },
+    {
+        "_id": 10,
+        "name": "shrikanth",
+        "gender": "male"
+    },
+    {
+        "_id": 11,
+        "name": "pavan",
+        "gender": "male"
+    },
+    {
+        "_id": 12,
+        "name": "chethan",
+        "gender": "male"
+    },
+    {
+        "_id": 13,
+        "name": "siddu",
+        "gender": "male"
+    },
+    {
+        "_id": 14,
+        "name": "jyothi",
+        "gender": "Female"
+    },
+    {
+        "_id": 15,
+        "name": "priyanka",
+        "gender": "Female"
+    },
+    {
+        "_id": 16,
+        "name": "krishna",
+        "gender": "male"
+    },
+    {
+        "_id": 17,
+        "name": "rakshith",
+        "gender": "male"
+    },
+    {
+        "_id": 18,
+        "name": "ramesh",
+        "gender": "male"
+    },
+    {"_id":19,
+    "name":"guddi"},  
+    
+    {
+        "_id": 20,
+        "name": "pappa",
+        "gender": "male"
+    },
+    {
+        "_id": 21,
+        "name": "steve vough",
+        "gender": "male"
+    },
+    {
+        "_id": 22,
+        "name": "sherlin",
+        "gender": "Female"
+    },
+    {
+        "_id": 23,
+        "name": "gopi",
+        "gender": "male"
+    },
+    {
+        "_id": 24,
+        "name": "steve smith",
+        "gender": "male"
+    },
+    {
+        "_id": 25,
+        "name": "nithya",
+        "gender": "Female"
+    }
+    
+
+    
+
+    
+]

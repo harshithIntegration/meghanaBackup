@@ -1,0 +1,20 @@
+[
+    {
+"emp_id":"101",
+"emp_name":"yash",
+"emp_designation":"software engineer",
+"emp_photo":"https://tse1.mm.bing.net/th?id=OIF.MD05ETzncKL5txp36Wku5Q&pid=Api&P=0&h=180"
+    },
+    {
+        "emp_id":"102",
+        "emp_name":"srimuruli",
+        "emp_designation":" fullstack_developer",
+        "emp_photo":"https://tse3.mm.bing.net/th?id=OIP.eKdgG-z5QaRB14mMlSqEAgHaK0&pid=Api&P=0&h=180"
+    },
+    {
+        "emp_id":"103",
+        "emp_name":"puneeth_rajkumar",
+        "emp_designation":"Android_developer",
+        "emp_photo":" https://tse3.explicit.bing.net/th?id=OIP.nDofcLng2OdraThZRiKltQHaG6&pid=Api&P=0&h=180"
+    }
+]
